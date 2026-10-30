@@ -1,0 +1,19 @@
+{
+  "README.md": "33a8258c3f741eff1c6e3888c2ed96dfbd61e01e83c5160f72c8c0da8fba0042",
+  "check_pick_position.py": "7fe1cd80f4e5303d7da273489bbb8b142bf9203ee0318a9f939ecd4af42d1664",
+  "cosmos_worker.py": "14dc0f20a46393a3c82e8e7c6329879505e871249b6033408c2946e485b5d9fa",
+  "guarded_refinement.py": "421a525170bf35399026db8a86454481798b498afc0db6c32f83fcf04136e439",
+  "live_recovery.py": "be99bfc55a4806455ec5f32e581358da1f741e0410a3e1da2368288816812309",
+  "patch_stack_executor.py": "090a346143e14671f62dfb12c4468875c20afc15a848d17054fcbc8dac5eb032",
+  "project_source_sha256.json": "a58bf0d18faac13e58946efad60dc876b4a45336fb575bb4b3c486acd81601c8",
+  "review_outcome.py": "71c9d75112f6db6ccea9338526991743d9339c553487f40fa0843440e931c58d",
+  "run_stack_pilot.py": "c0f43bdfbfb319bf8f03edc1cc6f72e0889b345b69fd0cc52647e7771e1a2bf0",
+  "session_process.py": "fffcb065c7a63e8acc9f944f8c81edd6df966b71ffcae421c6ec63b57487af38",
+  "stack_observation.py": "997d2a2f03ed1ff5b9c263d3891ee67a03380a286c14e55b10d053e3fff9408b",
+  "stack_planner.py": "1c4c14cfd89cfe7534a2f047c4855a03551135c79d5ef04f09ade1c628c13e71",
+  "stack_preflight.py": "8127eaaaca83cb9b36600e9f64ccae928c4ee6e1b325bbc1df07bbfd9ead8f97",
+  "stack_shift.py": "d7ce2ef3c07d4dd45e420c233a4cd399dfaa856757929c7b51e4dc11024cfc1a",
+  "test_pick_position.py": "b58ed87ff2a36c6bf160912e6ea61e990250e1822f577e78b89d7ca89a1919c4",
+  "test_revision_v3.py": "5f6c721c947149fd4c042124d9276ef73cc5572df49f394d929e2b07889f799c",
+  "test_stack_recovery.py": "410bfd5b69e35fcc0e1bef8b942fc73aa65fd76d5da8172546017da29391b80e"
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.etli
+*.mp4
+*.log
+*.lock
+runs/
+run_*/
+frames/
+side_frames/
+*.safetensors
+*.ckpt
+*.pt
+*.pth

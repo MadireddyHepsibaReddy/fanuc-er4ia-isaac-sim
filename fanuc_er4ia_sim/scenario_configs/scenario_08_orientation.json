@@ -1,0 +1,60 @@
+{
+  "scenario_id": 8,
+  "variant": "orientation",
+  "cubes": [
+    {
+      "id": "cube_01",
+      "color": "yellow",
+      "position": [
+        0.365769,
+        0.072782
+      ],
+      "yaw_deg": -5.31
+    },
+    {
+      "id": "cube_02",
+      "color": "yellow",
+      "position": [
+        0.419421,
+        0.178986
+      ],
+      "yaw_deg": 34.22
+    },
+    {
+      "id": "cube_03",
+      "color": "red",
+      "position": [
+        0.301708,
+        0.038276
+      ],
+      "yaw_deg": -26.65
+    },
+    {
+      "id": "cube_04",
+      "color": "red",
+      "position": [
+        0.414492,
+        0.253919
+      ],
+      "yaw_deg": -43.35
+    },
+    {
+      "id": "cube_05",
+      "color": "blue",
+      "position": [
+        0.278789,
+        0.247853
+      ],
+      "yaw_deg": 40.03
+    },
+    {
+      "id": "cube_06",
+      "color": "blue",
+      "position": [
+        0.348914,
+        0.267211
+      ],
+      "yaw_deg": 5.53
+    }
+  ]
+}
